@@ -21,3 +21,8 @@ Enter the credentials to the database connections. The default database name is
 "magento", the username "root" and the password "dev". You can choose the base
 url as long as it has the port :8080 and you modified your hosts-file according
 to the choosen url.
+
+## Example
+
+Find in example/modules/ customized xml settings to use a basic shop without
+any third party modules and dependencies.
