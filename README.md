@@ -7,8 +7,9 @@ This repository gives you a staring point for new magento shops. It uses
 
 ## Installation
 
-Vagrant and Virtual Box are both recommend to use this skeleton. Install them
-and start with the following commands:
+[Vagrant](http://www.vagrantup.com/) and
+[VirtualBox](https://www.virtualbox.org/) are both recommend to use this
+skeleton. Install them and start with the following commands:
 
 ```bash
 vagrant up
@@ -19,8 +20,8 @@ n98.phar install
 
 Enter the credentials to the database connections. The default database name is
 "magento", the username "root" and the password "dev". You can choose the base
-url as long as it has the port :8080 and you modified your hosts-file according
-to the choosen url.
+url as long as it has the port :8080 and you modified your hosts-file
+accordingly.
 
 ## Example
 
