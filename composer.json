@@ -1,0 +1,23 @@
+{
+    "name": "shop/shopname",
+    "description": "The Name of Your Shop",
+    "authors": [
+        {
+            "name": "Firstname Lastname",
+            "email": "email@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento-hackathon/composer-command-integrator": "*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ],
+    "extra": {
+        "magento-root-dir": "./magento/"
+    }
+}

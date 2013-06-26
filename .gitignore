@@ -1,0 +1,6 @@
+# IDE/OS noises
+.idea/
+.vagrant/
+
+vendor/
+magento/
