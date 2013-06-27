@@ -8,8 +8,13 @@ This repository gives you a staring point for new magento shops. It uses
 ## Installation
 
 [Vagrant](http://www.vagrantup.com/) and
-[VirtualBox](https://www.virtualbox.org/) are both recommend to use this
-skeleton. Install them and start with the following commands:
+[VirtualBox](https://www.virtualbox.org/) are both needed to use this
+skeleton.
+
+If you are on Linux or Mac youmust have `nsfd`, the NSF server daemon
+installed.
+
+Start your development environment with the following commands:
 
 ```bash
 vagrant up
