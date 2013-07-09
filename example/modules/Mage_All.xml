@@ -265,7 +265,7 @@
             </depends>
         </Mage_Review>
         <Mage_Tag>
-            <active>false</active>
+            <active>true</active>
             <codePool>core</codePool>
             <depends>
                 <Mage_Catalog/>
